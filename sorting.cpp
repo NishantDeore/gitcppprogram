@@ -64,4 +64,5 @@ class sortingArray {
 int main() {
 	sortingArray obj;
 	obj.getInput();
+	printf("\n Hello World");
 }
